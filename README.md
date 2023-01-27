@@ -1,4 +1,4 @@
-# bionics
+# Capstone for team _Beyond Bionics_
 Transradial Prosthesis - A bionic arm controlled via EEG and EMG sensors and signals.
 
 We're a bunch of enthusiastic engineers working on the development of a transradial prosthesis, a bionic arm controlled via EEG and EMG signals. 
